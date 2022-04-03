@@ -19,6 +19,11 @@
    <li><a href="array_column.php" target="_blank">Get the column value from given array array_column()</a></li>
    <li><a href="array_combine.php" target="_balnk">Combine two array array_combine()</a></li>
    <li><a href="array_count_values.php" target="_blank">Counts the values of an array array_count_values()</a></li>
+   <li><a href="array_diff.php" target="_blank">Values difference between two/multiple arrays array_diff()</a></li>
+   <li><a href="array_diff_assoc.php" target="_blank">Values & key difference between 2 or more arrays array_diff_assoc()</a></li>
+   <li><a href="array_diff_key.php" target="_blank">Key difference between 2 or more arrays array_diff_key()</a></li>
+   <li><a href="array_diff_uassoc.php" target="_blank">Values & key difference between arrays using user defined function array_diff_uassoc()</a></li>
+   <li><a href="array_diff_ukey.php" target="_blank">Keys difference between array using user defined function array_diff_ukey()</a></li>
   </ol>
 </section>
   
